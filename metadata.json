@@ -1,0 +1,6 @@
+{
+  "name": "Xennials Automation - AI Tutorial & Multi-Model Studio",
+  "description": "Autonomous video tutorial generator and production workflow with multi-model routing across ModelScope, HuggingFace, LM Studio, Ollama, and Google Gemini.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
